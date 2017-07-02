@@ -34,5 +34,5 @@ python plot_dbscan.py
 Result
 ======
 
-.. image::http://i.imgur.com/SfUFXip.png
-.. image::http://i.imgur.com/HlWEZg8.png
+.. image:: http://i.imgur.com/SfUFXip.png
+.. image:: http://i.imgur.com/HlWEZg8.png
